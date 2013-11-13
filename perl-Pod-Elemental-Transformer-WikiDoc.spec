@@ -12,6 +12,7 @@ Url:		http://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Pod/Pod-Elemental-Transformer-WikiDoc-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
+BuildRequires: perl(Pod::Weaver::Role::Dialect)
 BuildRequires:	perl(Moose)
 BuildRequires:	perl(Moose::Autobox)
 BuildRequires:	perl(Pod::Elemental)

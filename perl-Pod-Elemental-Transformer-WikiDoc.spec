@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
-Release:	1
+Release:	2
 
 Summary:	A transformer to replace "wikidoc" data regions with Pod5 elements
 License:	GPL+ or Artistic

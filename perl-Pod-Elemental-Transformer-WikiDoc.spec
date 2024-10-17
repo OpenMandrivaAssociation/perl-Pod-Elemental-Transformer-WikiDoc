@@ -8,7 +8,7 @@ Release:	3
 Summary:	A transformer to replace "wikidoc" data regions with Pod5 elements
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Pod/Pod-Elemental-Transformer-WikiDoc-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
